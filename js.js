@@ -1,6 +1,6 @@
 $(function() {
 
-    $('#ac1').click(function() {
+    $('#action1').click(function() {
         $('#Introduce').show();
         $('#Education').hide();
         $('#Experience').hide();
@@ -10,7 +10,7 @@ $(function() {
 });
 $(function() {
 
-    $('#ac2').click(function() {
+    $('#action2').click(function() {
         $('#Introduce').hide();
         $('#Education').show();
         $('#Experience').hide();
@@ -20,7 +20,7 @@ $(function() {
 });
 $(function() {
 
-    $('#ac3').click(function() {
+    $('#action3').click(function() {
         $('#Introduce').hide();
         $('#Education').hide();
         $('#Experience').show();
@@ -30,7 +30,7 @@ $(function() {
 });
 $(function() {
 
-    $('#ac4').click(function() {
+    $('#action4').click(function() {
         $('#Introduce').hide();
         $('#Education').hide();
         $('#Experience').hide();
